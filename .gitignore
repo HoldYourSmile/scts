@@ -2,7 +2,14 @@
 *.class
 
 # idea
-.idea/*
+.idea/
+
+# eclipse
+/bin/
+/.project
+/.gitignore
+/.classpath
+/.settings/
 
 # Log file
 *.log
